@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: HTML<br>🎯 Goals: Full Stack Programmer</p>
+<p align="left">Programming Student 2/3 in C# & JavaScript</p>
 
 ###
 
